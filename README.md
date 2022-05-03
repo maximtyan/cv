@@ -1,3 +1,5 @@
+# Maxim Tyan PhD
+
 ## Qualification
 
 * Aircraft conceptual and preliminary design: general aviation, UAV, UAM
@@ -75,9 +77,5 @@ TBD
 18.	Nguyen, Nhu Van, Jae-Woo Lee, Maxim Tyan, and Sangho Kim. 2015. “Repetitively Enhanced Neural Networks Method for Complex Engineering Design Optimisation Problems.” The Aeronautical Journal 119 (1220): 1253–70. https://doi.org/10.1017/S0001924000011234.
 19.	Nguyen, Nhu Van, Jae-Woo Lee, Maxim Tyan, and Daeyeon Lee. 2015. “Possibility-Based Multidisciplinary Optimisation for Electric-Powered Unmanned Aerial Vehicle Design.” The Aeronautical Journal 119 (1221): 1397–1414.
 20.	Nguyen, Nhu-Van, Maxim Tyan, Jae-Woo Lee, and Yung-Hwan Byun. 2014. “Investigations on Missile Configuration Aerodynamic Characteristics for Design Optimization.” Transactions of the Japan Society for Aeronautical and Space Sciences 57 (4): 210–18.
-
-
-
-
 
 ### Conferences
