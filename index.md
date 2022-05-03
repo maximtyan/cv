@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# Maxim Tyan
 
-You can use the [editor on GitHub](https://github.com/maximtyan/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aerospace Engineer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+* 2010-2015, **MSc-PhD**, Konkuk University, Department of Aerospace Information Engineering, *Seoul, Korea*
+* 2005-2009, **BSc**, Tashkent State Technical University, Department of Aerospace Engineering, *Tashkent, Uzbekistan*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Language Skills
 
-```markdown
-Syntax highlighted code block
+* **Russian**: Native speaker
+* **English**: Full professional proficiency (ILR Level 4)
+* **Korean**: Full professional proficiency (ILR Level 4)
+* **Uzbek**: Elementary proficiency (ILR Level 1)
 
-# Header 1
-## Header 2
-### Header 3
+## Qualification
 
-- Bulleted
-- List
+* Aircraft conceptual and preliminary design: general aviation, UAV, UAM
+* Multidisciplinary design optimization
+* Surrogate modeling
+* Flight simulation and control: simulation software dev., s/w integration
+* Digital twin system development
+* Design framework dev.
+* Process automation
+* Software integration
 
-1. Numbered
-2. List
+## Experience
 
-**Bold** and _Italic_ and `Code` text
+* **Research professor**, Konkuk University, Seoul, Korea, 2017-today
+* **Senior researcher**, Konkuk Aerospace Design-Airworthiness Institute, Seoul, Korea, 2010-2017
+* **Manufacturing engineer**, Engineering center "Muhandis-servis" Ltd., Tashkent, Uzbekistan, 2007-2010
 
-[Link](url) and ![Image](src)
-```
+## Honors and Awards
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* **Best paper award**
+  * Le Viet Thang Nguyen, Maxim Tyan, Nhu Van Nguyen, Sangho Kim, Jae-Woo Lee: "Development of a Validation Procedure for JSBSim Flight Dynamic Model Using Light Aircraft Flight Test Data", 2017 Korean Society for Aeronautical and Space Sciences Spring Conference, Gangwon-do, Korea; April 2017
+* **Best paper award**
+  * Yungki Jung, Nadhie Juliawan, Nhu Van Nguyen, Maxim Tyan, Sangho Kim, and Jae-Woo Lee, “Ducted Fan Shape Optimization using Genetic Algorithm”, 2016 Korean Society for Aeronautical and Space Sciences Fall Conference, Jeju, Korea, November 2016
+* **Konkuk academy award**, 2015
+* **Brain Korea 21 Scholarship**, 2010-2013
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maximtyan/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Projects
 
-### Support or Contact
+TBD
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Lecturing
+
+TBD
+
+## Publications
+
+TBD
+
+### Patents
+
+### SCI/SCI(E) Journal Papers
+
+### Conferences
