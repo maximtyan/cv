@@ -80,4 +80,15 @@ TBD
 19. An, Jae-Hyun, Do-Youn Kwon, Kwon-Su Jeon, Maxim Tyan, and Jae-Woo Lee. 2022. “Advanced Sizing Methodology for a Multi-Mode EVTOL UAV Powered by a Hydrogen Fuel Cell and Battery.” Aerospace 9 (2): 71. https://doi.org/10.3390/aerospace9020071.
 20. Silva, Francisco Airton, Carlos Brito, Gabriel Araújo, Iure Fé, Maxim Tyan, Jae-Woo Lee, Tuan Anh Nguyen, and Paulo Romero Martin Maciel. 2022. “Model-Driven Impact Quantification of Energy Resource Redundancy and Server Rejuvenation on the Dependability of Medical Sensor Networks in Smart Hospitals.” Sensors 22 (4): 1595. https://doi.org/10.3390/s22041595.
 
+### Non SCI Journals
+
+1. Kim, Jimin, Nhu Van Nguyen, Jung-Il Shu, Maxim Tyan, and Jae-Woo Lee. 2013. “UAV Performance Improvement Using Integrated Analysis and Design Optimization Technology.” Journal of the Korean Society for Aviation and Aeronautics 21 (1): 30–38. https://doi.org/10.12985/ksaa.2013.21.1.030.
+2. Park, Jinhwan, Maxim Tyan, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee. 2013. “Flap Design Optimization for KLA-100 Aircraft in compliance with Airworthiness Certification.” Journal of the Korean Society for Aeronautical & Space Sciences 41 (8): 649–56. https://doi.org/10.5139/JKSAS.2013.41.8.649.
+3. Pham, Vinh, Mukyeom Kim, Maxim Tyan, and Jae-Woo Lee. 2019. “Numerical Experience with Variable-Fidelity Metamodeling for Aerodynamic Data Fusion Problems.” Journal of Defense Acquisition and Technology 1 (1): 1–8. https://doi.org/10.33530/jdaat.2019.1.1.1.
+4. Seong, Dong Gyu, Nadhie Juliawan, Maxim Tyan, Sangho Kim, and Jae-Woo Lee. 2020. “Flying-Wing Type UAV Design Optimization for Flight Stability Enhancement.” Journal of Korean Society of Aeronautical and Space Sciences 48 (10): 809–19. https://doi.org/10.5139/JKSAS.2020.48.10.809.
+5. Lee, Chiho, Mukyeom Kim, Jae-Lyun Lee, Kwon-Su Jeon, Maxim Tyan, and Jae-Woo Lee. 2021. “Improved VFM Method for High Accuracy Flight Simulation.” Journal of the Korean Society for Aeronautical & Space Sciences 49 (9): 709–19. https://doi.org/10.5139/JKSAS.2021.49.9.709.
+
+
 ### Conferences
+
+60+
