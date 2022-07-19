@@ -1,5 +1,7 @@
 # Maxim Tyan PhD
 
+Aerospace engineer
+
 ## Qualification
 
 * Aircraft conceptual and preliminary design: general aviation, UAV, UAM
@@ -9,7 +11,7 @@
 * Digital twin system development
 * Design framework dev.
 * Process automation
-* Software integration
+* Software development and integration: aircraft design and optimization, flight simulation and control
 
 ## Education
 
@@ -47,7 +49,16 @@ TBD
 
 ## Lecturing
 
-TBD
+1. Introduction to optimal design
+2. Advanced optimization
+3. Integrated aircraft design
+4. Aircraft configuration design
+
+### Invited lectures
+
+1. Basics of flight simulation
+2. Construction of simulation databases
+...
 
 ## Publications
 
@@ -79,6 +90,8 @@ TBD
 18. Nguyen, Le Viet Thang, Maxim Tyan, Jae-Woo Lee, and Sangho Kim. 2021. “Enhancement of Light Aircraft 6 DOF Simulation Using Flight Test Data in Longitudinal Motion.” The Aeronautical Journal 125 (1290): 1358–79. https://doi.org/10.1017/aer.2021.18.
 19. An, Jae-Hyun, Do-Youn Kwon, Kwon-Su Jeon, Maxim Tyan, and Jae-Woo Lee. 2022. “Advanced Sizing Methodology for a Multi-Mode EVTOL UAV Powered by a Hydrogen Fuel Cell and Battery.” Aerospace 9 (2): 71. https://doi.org/10.3390/aerospace9020071.
 20. Silva, Francisco Airton, Carlos Brito, Gabriel Araújo, Iure Fé, Maxim Tyan, Jae-Woo Lee, Tuan Anh Nguyen, and Paulo Romero Martin Maciel. 2022. “Model-Driven Impact Quantification of Energy Resource Redundancy and Server Rejuvenation on the Dependability of Medical Sensor Networks in Smart Hospitals.” Sensors 22 (4): 1595. https://doi.org/10.3390/s22041595.
+21. Tyan, Maxim, Cheol Kyun Choi, Tuan Anh Nguyen, and Jae-Woo Lee, “Rapid Airfoil Inverse Design Method with a Deep Neural Network and Hyperparameter Selection”, International Journal of Aeronautical and Space Sciences, May 2022.
+
 
 ### Non SCI Journals
 
