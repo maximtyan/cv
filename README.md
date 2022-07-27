@@ -4,14 +4,33 @@ Aerospace engineer
 
 ## Qualification
 
-* Aircraft conceptual and preliminary design: general aviation, UAV, UAM
-* Multidisciplinary design optimization
-* Surrogate modeling
-* Flight simulation and control: simulation software dev., s/w integration
-* Digital twin system development
-* Design framework dev.
-* Process automation
-* Software development and integration: aircraft design and optimization, flight simulation and control
+### Technical Skills
+
+* Aircraft design (General Aviation, UAV, Hydrogen powered UAV, UAM, RAM)
+* Flight simulation and control (fixed wing, multicopter, eVTOL, tilt-x)
+* UAV/UAM Operational Digital Twin System Development
+* Numerical analysis (MDO, Surrogate Modeling, Variable Fidelity, Adaptive sampling, Design with uncertainties)
+* Software integration and process automation (CAD, CFD meshing, CFD analysis, MAVLink Communication)
+* Software development (Python, C++, Matlab)
+    - integrated aircraft design and analysis framework
+    - 3/6DoF flight simulation (missile, fixed wing, multicopter, eVTOL)
+
+### Non-technical skills
+
+* Project planning (prepared and participated in 20+ domestic and international projects)
+    - search for domestic/international collaboration opportunities
+    - project initialization activities
+    - proposal preparation (scheduling, KPI, budget, communication)
+* Project management (successfully managed teams with up to 30 members)
+    - team building, task assignment
+    - work organization and evaluation
+    - software development process organization (git, issue tracker, testing)
+
+### Teaching skills
+
+* Continuously delivering lectures on the fundamental and the most recent research topics
+* Full course preparation and individual lectures
+* Lecturing in English with possiblity of switching to Korean or Russian
 
 ## Education
 
@@ -24,8 +43,6 @@ Aerospace engineer
 * **English**: Full professional proficiency (ILR Level 4)
 * **Korean**: Full professional proficiency (ILR Level 4)
 * **Uzbek**: Elementary proficiency (ILR Level 1)
-
-
 
 ## Experience
 
@@ -67,6 +84,7 @@ TBD
 1. Lee, Jae-Woo, Maxim Tyan, and Nhu Van Nguyen. 2017. 강건 최윁 설계 시스템, 묩뮕 묏 컴퓨터 판독 가능한 괰띝매체. 대한민국특허청 10–1783015, filed 23 2017, and issued 22 2017.
 2. Maw, Aye Aye, Maxim Tyan, Jae-Woo Lee, and Kwonsu Jeon. n.d. 무인이동체를 위한 인공지능 기반의 경로 재계획 방법 및 장치. 건국대학교 산학협력단 10-2021–0004537, filed January 13, 2021.
 3. Nguyen, Le Viet Thang, Maxim Tyan, Jae-Woo Lee, and Kwonsu Jeon. n.d. 비행시험 데이터를 이용한 6 자유도 비행 시뮬레이션 정확도 향상 방법 및 장치 (Method and apparatus for improving the accuracy of 6-DOF flight simulation using flight test data). 賢信특허법률사무소 2020-I436(KU20L007P).
+4. Lee, Jae-Woo, Jae Hyun An, Maxim Tyan, Kwon Doyoun, Jeon Kwon Su, Sizing method and device for initial design of eVTOL UAV powered by a hydrogen fuel cell and battery, issued July 19, 2022, KU22L006P
 
 ### SCI/SCI(E) Journal Papers
 
@@ -187,3 +205,5 @@ TBD
 74.	Won, Woon Jae, Wonkyong Kim, Maxim Tyan, and Jae-Woo Lee. 2022. “EVTOL 항공기의 착륙장치 지상하중해석 기법 연구.” In Proceedings of the Spring Conference of The Korean Society for Aeronautical and Space Sciences. Gangwon-do, Korea.
 75.	Ywet, Nan Lao, Dasom Kim, Aye Aye Maw, Maxim Tyan, and Jae-Woo Lee. 2021. “Robust Real-Time Object Detection and Tracking Method Using Camera Images for Autonomous UAV Mission.” In Korean Society for Aeronautical and Space Sciences. Jeju, Korea.
 76.	Zin Win Thu, Jae Hyun An, Jae Lyun Lee, Vinh Pham, Aye Aye Maw, Maxim Tyan, and Jae-Woo Lee. 2021. “3D Optimal Trajectory Generation Based on IADA* Considering Aircraft Performance  Constraints.” In . Gangwon-do, Korea.
+77. Nguyen, Thang Le Viet, Taeho Kwag, Chiho Lee, Maxim Tyan, and Jae-Woo Lee. 2022. “Development of Validation Strategy for High Precision Simulation Model of Multicopter UAV.” In AIAA AVIATION 2022 Forum. AIAA AVIATION Forum. American Institute of Aeronautics and Astronautics. https://doi.org/10.2514/6.2022-3940.
+78. Zin Win Thu, Jae-Hyun Ahn, Jae-Lyun Lee, Do-Youn Kwon, Yeon-Ju Choi, Woon-Jae Won, Maxim Tyan, and Jae-Woo Lee. 2022. “Enhanced Performance Prediction of Hydrogen Fuel Cell Powered EVTOL UAV.” In AIAA AVIATION 2022 Forum. AIAA AVIATION Forum. American Institute of Aeronautics and Astronautics. https://doi.org/10.2514/6.2022-3382.
