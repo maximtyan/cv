@@ -121,8 +121,6 @@ TBD
 
 ### Conferences
 
-#### 2010-2015
-
 1. Chun, Hyunggeun, Seongjun Cho, Daeyeon Lee, Maxim Tyan, and Jaewoo Lee. 2014. “Flight Simulation of Guided Vehicle with Improved Aerodynamic Database Using Multifidelity Analysis.” In The Tenth Asian Computational Fluid Dynamics Conference (ACFD10).
 2. Jeon, Kwon-su, Maxim Tyan, Sung Hyun Jin, Seoung Jun Cho, and Jae-Woo Lee. 2014. “The Multidisciplinary Design Optimization Process and Design Framework Development for the Unmanned Gliding Vehicle.” In 2014 Asia-Pacific International Symposium on Aerospace Technology, APISAT2014.
 3. Kim, Im Kwon, Tun Lwin, Eung Young Kim, Nhu Van Nguyen, Maxim Tyan, Jung Il Shu, and Jae-Woo Lee. 2012. “Integrated Design Certification System Development for Light Aircraft.” In KSAA 2012 Conference. Korea.
@@ -150,9 +148,6 @@ TBD
 25. Tyan, Maxim, Jinhwan Park, Sangho Kim, and Jae-Woo Lee. 2013a. “Multi-Element Airfoil Design Optimization Process Using Multi-Fidelity Aerodynamic Analysis.” In Korean Society for Computational Fluid Engineering.
 26. Tyan, Maxim, Jin-hwan Park, Sangho Kim, and Jaewoo Lee. 2013b. “Design Optimization of Subsonic Airfoil and Slotted Flap Shape Using Multi-Fidelity Aerodynamic Analysis.” In 21st AIAA Computational Fluid Dynamics Conference. San Diego, CA: American Institute of Aeronautics and Astronautics. https://doi.org/10.2514/6.2013-2704.
 27. Tyan, Maxim, Jinhwan Park, Nhu-Van Nguyen, Daniel Neufeld, Sangho Kim, and Jae-Woo Lee. 2012. “Aircraft Airfoil and Flap Optimization Using Multi-Fidelity Aerodynamic Analysis.” In 12th AIAA ATIO Conference, Indianapolis, Indiana.
-
-#### 2016-2020
-
 28.	An, Jaehyun, Jae-Woo Lee, Maxim Tyan, and Dong-Gyu Seong. 2019. “축소모델의 비행시험을 통한 1인승 PAV 실기체 동안정성 예측 연구.” In . Jeju, Korea.
 29.	An, Jaehyun, Zin Win Thu, Jae Lyun Lee, Youngjae Lee, Jae Seon Min, Maxim Tyan, Seung Hyeog Nah, and Jae-Woo Lee. 2020. “수소연료전지 도심항공교통수단의 성능운용분석 연구 (Performance Operation Analysis Study on Hydrogen Fuel Cell Urban Air Mobility).” In 한국항공우주학회 2020 추계학술대회 논문집. Jeju, Korea: 한국항공우주학회.
 30.	Choi, Cheol Kyun, Aye Aye Maw, Mukyeom Kim, Maxim Tyan, and Jae-Woo Lee. 2018. “A Deep Learning Based Airfoil Design Algorithm Imitate Trial and Error Method.” In The Asian Congress of Structural and Multidisciplinary Optimization. Dalian, China.
@@ -185,9 +180,6 @@ TBD
 57.	Tyan, Maxim, Nhu Van Nguyen, and Jae-Woo Lee. 2016a. “Robust Optimization of Transonic Airfoil for Generic Fighter Aircraft Using Global Variable Fidelity Modeling.” In 16th AIAA Aviation Technology, Integration, and Operations Conference. Washington, D.C.: American Institute of Aeronautics and Astronautics. https://doi.org/10.2514/6.2016-3284.
 58.	Tyan, Maxim, Nhu Van Nguyen, and Jae-Woo Lee. 2016b. “Development of Adaptive Sequential Sampling Algorithm for Efficient Generation of Aerodynamic Tables.” In Asian Congress of Structural and Multidisciplinary Optimization 2016. Nagasaki, Japan.
 59.	Zin, Win Thu, Jae Lyun Lee, Quang Vinh Pham, Dong Gyu Seong, Jae Hyun An, Maxim Tyan, and Jae-Woo Lee. 2020. “Performance Analysis Code Development for Preliminary Design of Hydrogen Powered Vertical Takeoff and Landing UAV.” In Korean Society for Aeronautical and Space Sciences. Jeju, Korea.
-
-#### 2021-2025
-
 60.	An, Jae Hyun, Jae Lyun Lee, Maxim Tyan, and Jae-Woo Lee. 2021. “25kg급 Lift+Thrust 수소연료전지 수직이착륙 무인기 사이징 기법 연구.” In . Gangwon-do, Korea.
 61.	Choi, Yeon-Ju, Chi-Ho Lee, Vinh Pham Quang, Maxim Tyan, and Jae-Woo Lee. 2021. “정확한 공력 데이터베이스를 위한 SpaceMapping과 VFM 기반 다정밀도 외삽 기법 연구.” In , 2. Gangwon-do, Korea.
 62.	Hyeon, Jeongseok, Chiho Lee, Le Viet Thang Nguyen, Minseok Jang, Maxim Tyan, and Jae-Woo Lee. 2022. “EVTOL 천이 비행을 위한 Tilt Corridor 도출 기법 연구.” In Proceedings of the Spring Conference of The Korean Society for Aeronautical and Space Sciences. Gangwon-do, Korea.
