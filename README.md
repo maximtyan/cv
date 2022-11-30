@@ -138,7 +138,7 @@ TBD
 
 ### Conferences
 
-1. Chun, Hyunggeun, Seongjun Cho, Daeyeon Lee, Maxim Tyan, and Jaewoo Lee. 2014. “Flight Simulation of Guided Vehicle with Improved Aerodynamic Database Using Multifidelity Analysis.” In The Tenth Asian Computational Fluid Dynamics Conference (ACFD10).
+1. Tyan, Maxim, Abdulaziz Azamatov, Jae-Woo Lee, Sangho Kim, and Yung-Hwan Byun. 2011b. “Parametric Configuration Model for Light Aircraft.” In 2011 KSAF Spring Conference. Seoul, Korea.
 2. Jeon, Kwon-su, Maxim Tyan, Sung Hyun Jin, Seoung Jun Cho, and Jae-Woo Lee. 2014. “The Multidisciplinary Design Optimization Process and Design Framework Development for the Unmanned Gliding Vehicle.” In 2014 Asia-Pacific International Symposium on Aerospace Technology, APISAT2014.
 3. Kim, Im Kwon, Tun Lwin, Eung Young Kim, Nhu Van Nguyen, Maxim Tyan, Jung Il Shu, and Jae-Woo Lee. 2012. “Integrated Design Certification System Development for Light Aircraft.” In KSAA 2012 Conference. Korea.
 4. Kim, Jimin, Nhu Van Nguyen, Maxim Tyan, Jae-Woo Lee, Sangho Kim, Yung-Hwan Byun, and Seung-Hyeog Nah. 2012. “Performance Enhancement of Unmanned Aerial Vehicle Using an Electric Propulsion.” In Asian Joint Conference on Propulsion and Power, Xian, China.
@@ -154,7 +154,7 @@ TBD
 14. Park, Jinhwan, Maxim Tyan, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee. 2013a. “Flap Design Optimization for KLA100 Aircraft in Compliance with Airworthiness Certification.” In 2013 KSAS Spring Conference, Gangwon-Do, Rep. of Korea.
 15. Park, Jinhwan, Maxim Tyan, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee. 2013b. “Light Aircraft High-Lift Device Design Optimization in Compliance with Certification Regulations.” In The 50th International Conference on Law and Policy in Air and Space Field. Seoul, Korea.
 16. Tyan, Maxim, Abdulaziz Azamatov, Jae-Woo Lee, Sangho Kim, and Yung-Hwan Byun. 2011a. “Light Aircraft Parametric Configuration Design.” In Innovation 2011 Conference. Tashkent, Uzbekistan.
-17. Tyan, Maxim, Abdulaziz Azamatov, Jae-Woo Lee, Sangho Kim, and Yung-Hwan Byun. 2011b. “Parametric Configuration Model for Light Aircraft.” In 2011 KSAF Spring Conference. Seoul, Korea.
+17. Chun, Hyunggeun, Seongjun Cho, Daeyeon Lee, Maxim Tyan, and Jaewoo Lee. 2014. “Flight Simulation of Guided Vehicle with Improved Aerodynamic Database Using Multifidelity Analysis.” In The Tenth Asian Computational Fluid Dynamics Conference (ACFD10).
 18. Tyan, Maxim, Sangho Kim, Jae-Woo Lee, Soo-Hyung Park, and Young-Il Jang. 2011. “Light Aircraft Configuration Development Using Advanced Design Methods.” In 2011 KSAS Fall Conference, Jejudo, Rep. of Korea.
 19. Tyan, Maxim, Daniel Neufeld, Jae-Woo Lee, and Sangho Kim. 2013. “Integrated Analysis Program Development for Light Aircraft Preliminary Design Stage.” In 2013 KSAS Spring Conference, Gangwon-Do, Rep. of Korea.
 20. Tyan, Maxim, Nhu Van Nguyen, and Jae-Woo Lee. 2014. “Improving Variable-Fidelity Modelling by Exploring Global Design Space and RBF Networks for Airfoil Design.” In 8th China-Japan-Korea Joint Symposium on Optimization of Structural and Mechanical Systems, Gyeongju, Korea.
