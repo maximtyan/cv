@@ -1,6 +1,6 @@
 # Maxim Tyan / 장막심 PhD
 
-Aerospace engineer, Research Professor at [Konkuk University](konkuk.ac.kr)
+Aerospace engineer, Research Professor at [Konkuk University](http://www.konkuk.ac.kr/do/Index.do)
 
 ## Qualification
 
