@@ -1,6 +1,6 @@
-# Maxim Tyan PhD
+# Maxim Tyan / 장막심 PhD
 
-Aerospace engineer
+Aerospace engineer, Research Professor at [Konkuk University](konkuk.ac.kr)
 
 ## Qualification
 
@@ -52,14 +52,11 @@ Aerospace engineer
 
 ## Honors and Awards
 
-* **Best paper award**
-  * Le Viet Thang Nguyen, Maxim Tyan, Nhu Van Nguyen, Sangho Kim, Jae-Woo Lee: "Development of a Validation Procedure for JSBSim Flight Dynamic Model Using Light Aircraft Flight Test Data", 2017 Korean Society for Aeronautical and Space Sciences Spring Conference, Gangwon-do, Korea; April 2017
-* **Best paper award**
-  * Yungki Jung, Nadhie Juliawan, Nhu Van Nguyen, Maxim Tyan, Sangho Kim, and Jae-Woo Lee, “Ducted Fan Shape Optimization using Genetic Algorithm”, 2016 Korean Society for Aeronautical and Space Sciences Fall Conference, Jeju, Korea, November 2016
+* **Best paper award**, Le Viet Thang Nguyen, Maxim Tyan, Nhu Van Nguyen, Sangho Kim, Jae-Woo Lee: "Development of a Validation Procedure for JSBSim Flight Dynamic Model Using Light Aircraft Flight Test Data", 2017 Korean Society for Aeronautical and Space Sciences Spring Conference, Gangwon-do, Korea; April 2017
+* **Best paper award**, Yungki Jung, Nadhie Juliawan, Nhu Van Nguyen, Maxim Tyan, Sangho Kim, and Jae-Woo Lee, “Ducted Fan Shape Optimization using Genetic Algorithm”, 2016 Korean Society for Aeronautical and Space Sciences Fall Conference, Jeju, Korea, November 2016
 * **Konkuk academy award**, 2015
 * **Brain Korea 21 Scholarship**, 2010-2013
-* **Best paper award**
-  * Won, Woon Jae, Wonkyong Kim, Maxim Tyan, and Jae-Woo Lee. 2022. “EVTOL 항공기의 착륙장치 지상하중해석 기법 연구.” In Proceedings of the Spring Conference of The Korean Society for Aeronautical and Space Sciences. Gangwon-do, Korea.
+* **Best paper award**, Won, Woon Jae, Wonkyong Kim, Maxim Tyan, and Jae-Woo Lee. 2022. “EVTOL 항공기의 착륙장치 지상하중해석 기법 연구.” In Proceedings of the Spring Conference of The Korean Society for Aeronautical and Space Sciences. Gangwon-do, Korea.
 
 ## Projects
 
@@ -67,16 +64,36 @@ TBD
 
 ## Lecturing
 
-1. Introduction to optimal design
-2. Advanced optimization
-3. Integrated aircraft design
-4. Aircraft configuration design
+### Full course
 
-### Invited lectures
+1. Optimal design basics (최적설계기초)
+   * 2013(TA), 2015(TA)
+   * 2019
+2. Advanced course on optimal design (최적설계특론)
+   * 2018
+3. Integrated aircraft design (항공우주종합설계1)
+   * 2020: eVTOL Urban Air Mobility Aircraft
+4. Aircraft design project (설계프로젝트)
+   * 2016: eVTOL-UAV
+   * 2019: Hydrogen fuel cell powered eVTOL-UAV
+   * 2022: Electric Regional Air Mobility Aircraft
+5. Aircraft configuration design
+   * 2012(TA), 2015(TA)
 
-1. Basics of flight simulation
-2. Construction of simulation databases
-...
+### Invited Lectures and Seminars
+
+1. Ryerson University, Canada, "Advanced optimization methods for aircraft design"
+2. National Aerospace Laboratory, India, "Applications of Multidisciplinary Design Optimization for Aircraft Design"
+3. Tashkent State Technical University, Uzbekistan, "Introduction to UAV Design"
+4. Design under uncertainties
+5. Aircraft stability and control
+6. Parameter based design (CAD, geometry modeling)
+7. Flight simulation
+   * Principles of simulation
+   * Data fusion methods for simulation DB generation
+   * Automatic control theory: classical methods
+8. Digital twins: basic definitions and technologies
+9. Aircraft operational digital twin
 
 ## Publications
 
