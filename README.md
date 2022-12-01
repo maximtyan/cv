@@ -58,6 +58,8 @@ Aerospace engineer, Research Professor at [Konkuk University](http://www.konkuk.
 * **Brain Korea 21 Scholarship**, 2010-2013
 * **Best paper award**, Won, Woon Jae, Wonkyong Kim, Maxim Tyan, and Jae-Woo Lee. 2022. “EVTOL 항공기의 착륙장치 지상하중해석 기법 연구.” In Proceedings of the Spring Conference of The Korean Society for Aeronautical and Space Sciences. Gangwon-do, Korea.
 
+---
+
 ## Projects
 
 TBD
@@ -94,6 +96,8 @@ TBD
    * Automatic control theory: classical methods
 8. Digital twins: basic definitions and technologies
 9. Aircraft operational digital twin
+
+---
 
 ## Publications
 
