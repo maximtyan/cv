@@ -1,41 +1,55 @@
 # Maxim Tyan / 장막심 PhD
 
-Aerospace engineer, Research Professor at [Konkuk University](http://www.konkuk.ac.kr/do/Index.do)
+Aerospace engineer, Research Professor at
+[Konkuk University](http://www.konkuk.ac.kr/do/Index.do)
 
 ## Qualification
 
 ### Technical Skills
 
-* Aircraft design (General Aviation, UAV, Hydrogen powered UAV, UAM, RAM)
-* Flight simulation and control (fixed wing, multicopter, eVTOL, tilt-x)
+* Aircraft design and optimization (Electric aircraft, Hydrogen powered,
+  AAM, General Aviation)
+* Multidisciplnary Design Optimization
+* Design Under Uncertainties (Robust Design, Reliability Analysis)
+* Surrogate Modeling
+  * Variable Fidelity Modeling
+  * Sampling Methods (Adaptive, Simulation-based)
+* Flight simulation and control (fixed wing, multicopter, eVTOL,
+  tilt-x)
 * UAV/UAM Operational Digital Twin System Development
-* Numerical analysis (MDO, Surrogate Modeling, Variable Fidelity, Adaptive sampling, Design with uncertainties)
-* Software integration and process automation (CAD, CFD meshing, CFD analysis, MAVLink Communication)
-* Software development (Python, C++, Matlab)
+* Software integration and process automation (CAD, CFD meshing, CFD
+  analysis, MAVLink)
+* Software development (Python, C++, Matlab, VBA, glyph)
   * integrated aircraft design and analysis framework
   * 3/6DoF flight simulation (missile, fixed wing, multicopter, eVTOL)
 
 ### Non-technical skills
 
-* Project planning (prepared and participated in 20+ domestic and international projects)
+* Project planning (prepared and participated in 20+ domestic and
+  international projects)
   * search for domestic/international collaboration opportunities
-  * project initialization activities
-    * proposal preparation (scheduling, KPI, budget, communication)
+  * project initialization activities. Proposal preparation (scheduling,
+    KPI, budget, communication)
 * Project management (successfully managed teams with up to 30 members)
-  * team building, task assignment
+  * team building
   * work organization and evaluation
-  * software development process organization (git, issue tracker, testing)
+  * DevOps software development process organization
 
 ### Teaching skills
 
-* Continuously delivering lectures on the fundamental and the most recent research topics
+* Continuously delivering lectures on the fundamental and the most
+  recent research topics
 * Full course preparation and individual lectures
-* Lecturing in English with possiblity of switching to Korean or Russian
+* Lecturing in English with easy switching to Korean or Russian
+
+---
 
 ## Education
 
-* 2010-2015, **MSc-PhD**, Konkuk University, Department of Aerospace Information Engineering, *Seoul, Korea*
-* 2005-2009, **BSc**, Tashkent State Technical University, Department of Aerospace Engineering, *Tashkent, Uzbekistan*
+* 2010-2015, **MSc-PhD**, Konkuk University, Department of Aerospace
+  Information Engineering, *Seoul, Korea*
+* 2005-2009, **BSc**, Tashkent State Technical University, Department
+  of Aerospace Engineering, *Tashkent, Uzbekistan*
 
 ## Language Skills
 
@@ -47,8 +61,10 @@ Aerospace engineer, Research Professor at [Konkuk University](http://www.konkuk.
 ## Experience
 
 * **Research professor**, Konkuk University, Seoul, Korea, 2017-today
-* **Senior researcher**, Konkuk Aerospace Design-Airworthiness Institute, Seoul, Korea, 2010-2017
-* **Manufacturing engineer**, Engineering center "Muhandis-servis" Ltd., Tashkent, Uzbekistan, 2007-2010
+* **Senior researcher**, Konkuk Aerospace Design-Airworthiness
+  Institute, Seoul, Korea, 2010-2017
+* **Manufacturing engineer**, Engineering center "Muhandis-servis" Ltd.,
+  Tashkent, Uzbekistan, 2007-2010
 
 ## Honors and Awards
 
