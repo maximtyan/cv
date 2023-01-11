@@ -119,10 +119,12 @@ TBD
 
 ### Patents
 
-1. Lee, Jae-Woo, Maxim Tyan, and Nhu Van Nguyen. 2017. 강건 최윁 설계 시스템, 묩뮕 묏 컴퓨터 판독 가능한 괰띝매체. 대한민국특허청 10–1783015, filed 23 2017, and issued 22 2017.
-2. Maw, Aye Aye, Maxim Tyan, Jae-Woo Lee, and Kwonsu Jeon. n.d. 무인이동체를 위한 인공지능 기반의 경로 재계획 방법 및 장치. 건국대학교 산학협력단 10-2021–0004537, filed January 13, 2021.
-3. Nguyen, Le Viet Thang, Maxim Tyan, Jae-Woo Lee, and Kwonsu Jeon. n.d. 비행시험 데이터를 이용한 6 자유도 비행 시뮬레이션 정확도 향상 방법 및 장치 (Method and apparatus for improving the accuracy of 6-DOF flight simulation using flight test data). 賢信특허법률사무소 2020-I436(KU20L007P).
-4. Lee, Jae-Woo, Jae Hyun An, Maxim Tyan, Kwon Doyoun, Jeon Kwon Su, Sizing method and device for initial design of eVTOL UAV powered by a hydrogen fuel cell and battery, issued July 19, 2022, KU22L006P
+1. Lee, Jae-Woo, Maxim Tyan, and Nhu Van Nguyen. 2017. 강건 최적 설계 시스템, 방법 및 컴퓨터 판독 가능한 기록매체. KR101783015B1, filed May 25, 2016, and issued October 23, 2017. https://patents.google.com/patent/KR101783015B1
+2. Lee, Jae-Woo, Jae-Hyun An, Maxim Tyan, Do Youn Kwon, and Kwonsu Jeon. 2022. 수소연료전지를 적용한 무인기 초기 설계를 위한 사이징 방법 및 장치. 10-2022-0088895, filed July 19, 2022, and issued July 19, 2022.
+3. Aye Aye Maw, Maxim Tyan, Jae-Woo Lee, and Kwonsu Jeon. 2022. 무인이동체를 위한 인공지능 기반의 경로 재계획 방법 및 장치. KR102434949B1, filed January 13, 2021, and issued August 26, 2022. https://patents.google.com/patent/KR102434949B1
+4. Tyan, Maxim, LV Thang Nguyen, Aye Aye Maw, Gu Moon Jeong, Jae-Woo Lee, and Chiho Lee. 2022. 전기추진장치를 장착한 무인비행체의 고정밀 비행 시뮬레이션 장치 및 방법. KR20220152424A, filed May 6, 2021, and issued November 16, 2022. https://patents.google.com/patent/KR20220152424A
+5. Nguyen, LV Thang, Maxim Tya, Jae-Woo Lee, and Kwonsu Jeon. 2022. 비행시험 데이터를 이용한 6 자유도 비행 시뮬레이션 정확도 향상 방법 및 장치. World Intellectual Property Organization WO2022145759A1, filed December 1, 2021, and issued July 7, 2022. https://patents.google.com/patent/WO2022145759A1
+6. Nguyen, LV Thang, Maxim Tyan, Jae-Woo Lee, and Kwon-Su Jeon. 2022. Method and device for improving accuracy of six-degree-of-freedom flight simulation by using flight test data. KR20220096658A, filed December 31, 2020, and issued July 7, 2022. https://patents.google.com/patent/KR20220096658A/en.
 
 ### SCI/SCI(E) Journal Papers
 
