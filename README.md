@@ -225,3 +225,4 @@ TBD
 81. Kwon, Do-Youn, Seong-Joong Park, Maxim Tyan, and Jae-Woo Lee. 2022. “수소연료전지-배터리 동력분담률을 고려한 25kg급 하이브리드 EVTOL 사이징 기법 연구.” In The Korean Society for Aeronautical and Space Sciences. Jeju, Korea.
 82. Tyan, Maxim, Jae Lyun Lee, MinJi Kim, Woon Jae Won, Yeonju Choi, Zin Win Thu, Ki Joon Byeon, Seong Joong Park, and Jae-Woo Lee. 2022. “Integrated Analysis, Design and Optimization Program Development for Advanced Air Mobility Aircraft.” In The Korean Society for Aeronautical and Space Sciences. Jeju, Korea.
 83. Won, Woon Jae, Kwang Woong Choi, Maxim Tyan, and Jae Woo Lee. 2022. “AAM 항공기의 하중해석을 고려한 감항인증 분석.”In The Korean Society for Aeronautical and Space Sciences. Jeju, Korea.
+84. Kim, Min Ji, Maxim Tyan, Irfan Alam, Joon Chung, and Jae Woo Lee. 2023, "Box-Wing Shape Optimisation of eVTOL UAM Aircraft Using Multi-Step Hybrid GA-SQP Strategy", World Congress on Structural and Multidisciplinary Optimization, Cork, Ireland
