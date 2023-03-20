@@ -1,5 +1,7 @@
 # Maxim Tyan / 장막심 PhD
 
+![photo](profile-1.jpg)
+
 Aerospace engineer, Research Professor at
 [Konkuk University](http://www.konkuk.ac.kr/do/Index.do)
 
@@ -91,6 +93,7 @@ TBD
    * 2018
 3. Integrated aircraft design (항공우주종합설계1)
    * 2020: eVTOL Urban Air Mobility Aircraft
+   * 2023: Environment Friendly Regional Aircraft
 4. Aircraft design project (설계프로젝트)
    * 2016: eVTOL-UAV
    * 2019: Hydrogen fuel cell powered eVTOL-UAV
