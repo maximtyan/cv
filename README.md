@@ -118,16 +118,17 @@ TBD
 
 ---
 
-## Publications
-
-### Patents
+## Patents
 
 1. Lee, Jae-Woo, Maxim Tyan, and Nhu Van Nguyen. 2017. 강건 최적 설계 시스템, 방법 및 컴퓨터 판독 가능한 기록매체. KR101783015B1, filed May 25, 2016, and issued October 23, 2017. <https://patents.google.com/patent/KR101783015B1>
 2. Lee, Jae-Woo, Jae-Hyun An, Maxim Tyan, Do Youn Kwon, and Kwonsu Jeon. 2022. 수소연료전지를 적용한 무인기 초기 설계를 위한 사이징 방법 및 장치. 10-2022-0088895, filed July 19, 2022, and issued July 19, 2022.
 3. Aye Aye Maw, Maxim Tyan, Jae-Woo Lee, and Kwonsu Jeon. 2022. 무인이동체를 위한 인공지능 기반의 경로 재계획 방법 및 장치. KR102434949B1, filed January 13, 2021, and issued August 26, 2022. <https://patents.google.com/patent/KR102434949B1>
-4. Tyan, Maxim, LV Thang Nguyen, Aye Aye Maw, Gu Moon Jeong, Jae-Woo Lee, and Chiho Lee. 2022. 전기추진장치를 장착한 무인비행체의 고정밀 비행 시뮬레이션 장치 및 방법. KR20220152424A, filed May 6, 2021, and issued November 16, 2022. <https://patents.google.com/patent/KR20220152424A>
+4. Tyan, Maxim, LV Thang Nguyen, Aye Aye Maw, Gu Moon Jeong, Jae-Woo Lee, and Chiho Lee. 2022.  High-precision flight simulation device and method of evtol vehicle equipped with electric propulsion system. KR20220152424A, filed May 6, 2021, and issued March 29, 2023. <https://patents.google.com/patent/KR20220152424A>
 5. Nguyen, LV Thang, Maxim Tya, Jae-Woo Lee, and Kwonsu Jeon. 2022. 비행시험 데이터를 이용한 6 자유도 비행 시뮬레이션 정확도 향상 방법 및 장치. World Intellectual Property Organization WO2022145759A1, filed December 1, 2021, and issued July 7, 2022. <https://patents.google.com/patent/WO2022145759A1>
 6. Nguyen, LV Thang, Maxim Tyan, Jae-Woo Lee, and Kwon-Su Jeon. 2022. Method and device for improving accuracy of six-degree-of-freedom flight simulation by using flight test data. KR20220096658A, filed December 31, 2020, and issued July 7, 2022. <https://patents.google.com/patent/KR20220096658A/en>.
+
+
+## Publications
 
 ### SCI/SCI(E) Journal Papers
 
@@ -160,6 +161,12 @@ TBD
 3. Pham, Vinh, Mukyeom Kim, Maxim Tyan, and Jae-Woo Lee. 2019. “Numerical Experience with Variable-Fidelity Metamodeling for Aerodynamic Data Fusion Problems.” Journal of Defense Acquisition and Technology 1 (1): 1–8. <https://doi.org/10.33530/jdaat.2019.1.1.1>.
 4. Seong, Dong Gyu, Nadhie Juliawan, Maxim Tyan, Sangho Kim, and Jae-Woo Lee. 2020. “Flying-Wing Type UAV Design Optimization for Flight Stability Enhancement.” Journal of Korean Society of Aeronautical and Space Sciences 48 (10): 809–19. <https://doi.org/10.5139/JKSAS.2020.48.10.809>.
 5. Lee, Chiho, Mukyeom Kim, Jae-Lyun Lee, Kwon-Su Jeon, Maxim Tyan, and Jae-Woo Lee. 2021. “Improved VFM Method for High Accuracy Flight Simulation.” Journal of the Korean Society for Aeronautical & Space Sciences 49 (9): 709–19. <https://doi.org/10.5139/JKSAS.2021.49.9.709>.
+
+## Presentations
+
+### Keynote Speech
+
+1. Tyan, Maxim. 2023. "Advanced Air Mobility. Concepts, design challenges and future operations" International Conference on Current Trends in Data Science and Applications. SRM Institute of Science and Technology. Chennai, India.
 
 ### Conferences
 
