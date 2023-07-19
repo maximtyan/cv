@@ -22,7 +22,7 @@ Aerospace engineer, Research Professor at
 * Software integration and process automation (CAD, CFD meshing, CFD
   analysis, MAVLink)
 * Software development (Python, C++, Matlab, VBA, glyph)
-  * integrated aircraft design and analysis framework
+  * Integrated aircraft design and analysis framework
   * 3/6DoF flight simulation (missile, fixed wing, multicopter, eVTOL)
 
 ### Non-technical skills
@@ -30,17 +30,15 @@ Aerospace engineer, Research Professor at
 * Project planning (prepared and participated in 20+ domestic and
   international projects)
   * search for domestic/international collaboration opportunities
-  * project initialization activities. Proposal preparation (scheduling,
-    KPI, budget, communication)
+  * project initialization activities (scheduling, KPI, budgeting, communication)
+  * business talks and government relations
 * Project management (successfully managed teams with up to 30 members)
-  * team building
-  * work organization and evaluation
+  * Team building, work organization and evaluation
   * DevOps software development process organization
 
 ### Teaching skills
 
-* Continuously delivering lectures on the fundamental and the most
-  recent research topics
+* Continuously delivering lectures on the fundamental and the most recent research topics
 * Full course preparation and individual lectures
 * Lecturing in English with easy switching to Korean or Russian
 
@@ -80,7 +78,16 @@ Aerospace engineer, Research Professor at
 
 ## Projects
 
-TBD
+* 20+ International and Domestic (Korean) projects
+* Total project funding >$25M
+* Funded by
+	* European partnership programs (Eurostars2, XECS)
+	* Korean government programs (NRF, MOLIT, MOE)
+	* Private companies (Hyundai MC, Hanwha, LIG-Nex1, KAI)
+* Roles
+	* Project initiator
+	* Project manager
+	* Senior researcher
 
 ## Lecturing
 
@@ -97,24 +104,29 @@ TBD
 4. Aircraft design project (설계프로젝트)
    * 2016: eVTOL-UAV
    * 2019: Hydrogen fuel cell powered eVTOL-UAV
-   * 2022: Electric Regional Air Mobility Aircraft
+   * 2022: Electric Regional Aircraft
 5. Aircraft configuration design
    * 2012(TA), 2015(TA)
 
-### Invited Lectures and Seminars
+### Invited Lectures and Keynote speech
 
-1. Ryerson University, Canada, "Advanced optimization methods for aircraft design"
-2. National Aerospace Laboratory, India, "Applications of Multidisciplinary Design Optimization for Aircraft Design"
-3. Tashkent State Technical University, Uzbekistan, "Introduction to UAV Design"
-4. Design under uncertainties
-5. Aircraft stability and control
-6. Parameter based design (CAD, geometry modeling)
-7. Flight simulation
-   * Principles of simulation
-   * Data fusion methods for simulation DB generation
-   * Automatic control theory: classical methods
-8. Digital twins: basic definitions and technologies
-9. Aircraft operational digital twin
+1. "Advanced air mobility. Concepts, design challenges and future operations", SRM University, India, 2023
+2. "Digital Twin. Main Principles and Concepts. Example of UAM Operational DT", SRM University, India, 2023
+3. "Advanced optimization methods for aircraft design", Toronto Metropolitan University, Canada, 2023
+4. "How to write a good journal paper", Konkuk University, Korea, 2023
+5. "Introduction to UAV Design", Tashkent State Technical University, Uzbekistan, 2021
+6. "Applications of Multidisciplinary Design Optimization for Aircraft Design", CSIR National Aerospace Laboratory, India, 2019
+7. "Applications of Multidisciplinary Design Optimization for Aircraft Design", Ryerson University, Canada, 2019
+8. "Design under uncertainties. Non-probabilistic approach", Konkuk University, Korea, 2018
+
+### Series of seminars (3-5 presentations)
+
+1. "Multidisciplinary analysis and design of an aircraft", 2023
+2. "Surrogate modeling. Advanced methods and applications", 2020
+3. "Aircraft flight simulation", 2017, 2020
+4. "Numerical optimization and approximation", 2016
+5. "Programing in Matlab", 2016
+6. "OOP and Python Programing", 2016
 
 ---
 
