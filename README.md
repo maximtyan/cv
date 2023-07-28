@@ -81,13 +81,13 @@ Aerospace engineer, Research Professor at
 * 20+ International and Domestic (Korean) projects
 * Total project funding >$25M
 * Funded by
-	* European partnership programs (Eurostars2, XECS)
-	* Korean government programs (NRF, MOLIT, MOE)
-	* Private companies (Hyundai MC, Hanwha, LIG-Nex1, KAI)
+  * European partnership programs (Eurostars2, XECS)
+  * Korean government programs (NRF, MOLIT, MOE)
+  * Private companies (Hyundai MC, Hanwha, LIG-Nex1, KAI)
 * Roles
-	* Project initiator
-	* Project manager
-	* Senior researcher
+  * Project initiator
+  * Project manager
+  * Senior researcher
 
 ## Lecturing
 
@@ -108,7 +108,7 @@ Aerospace engineer, Research Professor at
 5. Aircraft configuration design
    * 2012(TA), 2015(TA)
 
-### Invited Lectures and Keynote speech
+### Invited lectures, seminars and keynote presentations
 
 1. "Advanced air mobility. Concepts, design challenges and future operations", SRM University, India, 2023
 2. "Digital Twin. Main Principles and Concepts. Example of UAM Operational DT", SRM University, India, 2023
@@ -138,7 +138,6 @@ Aerospace engineer, Research Professor at
 4. Tyan, Maxim, LV Thang Nguyen, Aye Aye Maw, Gu Moon Jeong, Jae-Woo Lee, and Chiho Lee. 2022.  High-precision flight simulation device and method of evtol vehicle equipped with electric propulsion system. KR20220152424A, filed May 6, 2021, and issued March 29, 2023. <https://patents.google.com/patent/KR20220152424A>
 5. Nguyen, LV Thang, Maxim Tya, Jae-Woo Lee, and Kwonsu Jeon. 2022. 비행시험 데이터를 이용한 6 자유도 비행 시뮬레이션 정확도 향상 방법 및 장치. World Intellectual Property Organization WO2022145759A1, filed December 1, 2021, and issued July 7, 2022. <https://patents.google.com/patent/WO2022145759A1>
 6. Nguyen, LV Thang, Maxim Tyan, Jae-Woo Lee, and Kwon-Su Jeon. 2022. Method and device for improving accuracy of six-degree-of-freedom flight simulation by using flight test data. KR20220096658A, filed December 31, 2020, and issued July 7, 2022. <https://patents.google.com/patent/KR20220096658A/en>.
-
 
 ## Publications
 
@@ -175,10 +174,6 @@ Aerospace engineer, Research Professor at
 5. Lee, Chiho, Mukyeom Kim, Jae-Lyun Lee, Kwon-Su Jeon, Maxim Tyan, and Jae-Woo Lee. 2021. “Improved VFM Method for High Accuracy Flight Simulation.” Journal of the Korean Society for Aeronautical & Space Sciences 49 (9): 709–19. <https://doi.org/10.5139/JKSAS.2021.49.9.709>.
 
 ## Presentations
-
-### Keynote Speech
-
-1. Tyan, Maxim. 2023. "Advanced Air Mobility. Concepts, design challenges and future operations" International Conference on Current Trends in Data Science and Applications. SRM Institute of Science and Technology. Chennai, India.
 
 ### Conferences
 
