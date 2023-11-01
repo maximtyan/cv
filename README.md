@@ -164,6 +164,8 @@ Aerospace engineer, Research Professor at
 19. Nguyen, Le Viet Thang, Maxim Tyan, Jae-Woo Lee, and Sangho Kim. 2021. “Enhancement of Light Aircraft 6 DOF Simulation Using Flight Test Data in Longitudinal Motion.” The Aeronautical Journal 125 (1290): 1358–79. <https://doi.org/10.1017/aer.2021.18>.
 20. An, Jae-Hyun, Do-Youn Kwon, Kwon-Su Jeon, Maxim Tyan, and Jae-Woo Lee. 2022. “Advanced Sizing Methodology for a Multi-Mode EVTOL UAV Powered by a Hydrogen Fuel Cell and Battery.” Aerospace 9 (2): 71. <https://doi.org/10.3390/aerospace9020071>.
 21. Silva, Francisco Airton, Carlos Brito, Gabriel Araújo, Iure Fé, Maxim Tyan, Jae-Woo Lee, Tuan Anh Nguyen, and Paulo Romero Martin Maciel. 2022. “Model-Driven Impact Quantification of Energy Resource Redundancy and Server Rejuvenation on the Dependability of Medical Sensor Networks in Smart Hospitals.” Sensors 22 (4): 1595. <https://doi.org/10.3390/s22041595>.
+22. Pham, Vinh, Maxim Tyan, Tuan Anh Nguyen, Chiho Lee, Le Viet Thang Nguyen, Jae-Woo Lee. 2023. "Adaptive data fusion framework for modeling of non-uniform aerodynamic data", Chinese Journal of Aeronautics 36(7): 316-336. <https://www.sciencedirect.com/science/article/pii/S1000936123001644>
+23. Lee, Jae Lyun, Maxim Tyan, Do Youn Kwon, Jae-Woo Lee. 2023. "Enhanced Calibration and Performance Prediction Method for Entire Propulsion System of eVTOL UAV", IEEE Transactions on Transportation Electrification. <https://doi.org/10.1109/TTE.2023.3326382>
 
 ### Non SCI Journals
 
