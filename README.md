@@ -104,7 +104,10 @@ Aerospace engineer, Research Professor at
 4. Aircraft design project (설계프로젝트)
    * 2016: eVTOL-UAV
    * 2019: Hydrogen fuel cell powered eVTOL-UAV
+   * 2021: eVTOL-UAM
    * 2022: Electric Regional Aircraft
+   * 2023: Hydrogen Powered Electric Regional Aircraft
+   * 2024: Hydrogen Powered eVTOL-UAM
 5. Aircraft configuration design
    * 2012(TA), 2015(TA)
 
@@ -127,6 +130,7 @@ Aerospace engineer, Research Professor at
 4. "Numerical optimization and approximation", 2016
 5. "Programing in Matlab", 2016
 6. "OOP and Python Programing", 2016
+7. "Aircraft Configuration Design", 2012, 2015, 2019, 2020, 2023
 
 ---
 
@@ -166,6 +170,8 @@ Aerospace engineer, Research Professor at
 21. Silva, Francisco Airton, Carlos Brito, Gabriel Araújo, Iure Fé, Maxim Tyan, Jae-Woo Lee, Tuan Anh Nguyen, and Paulo Romero Martin Maciel. 2022. “Model-Driven Impact Quantification of Energy Resource Redundancy and Server Rejuvenation on the Dependability of Medical Sensor Networks in Smart Hospitals.” Sensors 22 (4): 1595. <https://doi.org/10.3390/s22041595>.
 22. Pham, Vinh, Maxim Tyan, Tuan Anh Nguyen, Chiho Lee, Le Viet Thang Nguyen, Jae-Woo Lee. 2023. "Adaptive data fusion framework for modeling of non-uniform aerodynamic data", Chinese Journal of Aeronautics 36(7): 316-336. <https://www.sciencedirect.com/science/article/pii/S1000936123001644>
 23. Lee, Jae Lyun, Maxim Tyan, Do Youn Kwon, Jae-Woo Lee. 2023. "Enhanced Calibration and Performance Prediction Method for Entire Propulsion System of eVTOL UAV", IEEE Transactions on Transportation Electrification. <https://doi.org/10.1109/TTE.2023.3326382>
+24. Pham, Vinh, Maxim Tyan, Tuan Anh Nguyen, and Jae-Woo Lee. 2024. “Extended Hierarchical Kriging Method for Aerodynamic Model Generation Incorporating Multiple Low-Fidelity Datasets.” Aerospace 11 (1): 6. https://doi.org/10.3390/aerospace11010006. <https://doi.org/10.3390/aerospace11010006>
+
 
 ### Non SCI Journals
 
