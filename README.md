@@ -79,11 +79,11 @@ Aerospace engineer, Research Professor at
 ## Projects
 
 * 20+ International and Domestic (Korean) projects
-* Total project funding >$25M
+* Total project funding: over USD 25M
 * Funded by
-  * European partnership programs (Eurostars2, XECS)
-  * Korean government programs (NRF, MOLIT, MOE)
-  * Private companies (Hyundai MC, Hanwha, LIG-Nex1, KAI)
+  * European partnership programs (Eurostars, XECS)
+  * Korean government (NRF, MOLIT, MOE)
+  * Private companies (Hyundai MC, Hanwha, LIG-Nex1, KAI, etc.)
 * Roles
   * Project initiator
   * Project manager
