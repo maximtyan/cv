@@ -171,6 +171,7 @@ Aerospace engineer, Research Professor at
 22. Pham, Vinh, Maxim Tyan, Tuan Anh Nguyen, Chiho Lee, Le Viet Thang Nguyen, Jae-Woo Lee. 2023. "Adaptive data fusion framework for modeling of non-uniform aerodynamic data", Chinese Journal of Aeronautics 36(7): 316-336. <https://www.sciencedirect.com/science/article/pii/S1000936123001644>
 23. Lee, Jae Lyun, Maxim Tyan, Do Youn Kwon, Jae-Woo Lee. 2023. "Enhanced Calibration and Performance Prediction Method for Entire Propulsion System of eVTOL UAV", IEEE Transactions on Transportation Electrification. <https://doi.org/10.1109/TTE.2023.3326382>
 24. Pham, Vinh, Maxim Tyan, Tuan Anh Nguyen, and Jae-Woo Lee. 2024. “Extended Hierarchical Kriging Method for Aerodynamic Model Generation Incorporating Multiple Low-Fidelity Datasets.” Aerospace 11 (1): 6. https://doi.org/10.3390/aerospace11010006. <https://doi.org/10.3390/aerospace11010006>
+25. Alam, Mohammad Irfan, Zin Win Thu, Nghia Nguyen, Maxim Tyan, and Jae-Woo Lee. 2024. “Integrated Propulsion System Analysis Framework for Designing Advanced Air Mobility Aircraft.” IEEE Transactions on Transportation Electrification, 1–1. https://doi.org/10.1109/TTE.2024.3375835.
 
 
 ### Non SCI Journals
@@ -272,3 +273,7 @@ Aerospace engineer, Research Professor at
 85. Byeon Kijun, Yeonju Choi, Maxim Tyan, and Jae-Woo Lee. 2023. "A method for prediction of aerodynamic coefficients of a multi-wing aircraft using Viterna and Flat Plate method", Fall Conference of The Korean Society for Aeronautical and Space Sciences. Gangwon-do, Korea.
 86. Nguyen Nghia, Vinh Pham, Maxim Tyan, and Jae-Woo Lee. 2023. "Empowering large-scale data analysis with an advanced gaussian process modeling framework", Fall Conference of The Korean Society for Aeronautical and Space Sciences. Gangwon-do, Korea.
 87. Alam Mohammad Irfan, Minji Kim, Maxim Tyan, and Jae-Woo Lee. 2023. "A data-driven approach to estimate aircraft propeller noise". Fall Conference of The Korean Society for Aeronautical and Space Sciences. Gangwon-do, Korea.
+88. Kim, Min Ji, Maxim Tyan, Jae-Woo Lee. 2024. "A New Logical Development Process for the Initial Concept of Eco-Friendly Next-Generation RAM Aircraft". Spring Conference of The Korean Society for Aeronautical and Space Sciences. Jeju Korea.
+89. Kwag, Dong Oh, Zin Win Thu, Maxim Tyan, Jeong Woo Suk, Jae-Woo Lee. 2024. "Study on the Selection of Reliability-Based Eco-Friendly AAM Propulsion System Architecture Considering Failure Scenario". Spring Conference of The Korean Society for Aeronautical and Space Sciences. Jeju Korea.
+90. LV Thang Nguyen, Mohammad Irfan Alam, Maxim Tyan, Jae-Woo Lee. 2024. "Comprehensive Modeling of Electric Propulsion System for High-fidelity eVTOL-AAM Flight Simulation". Spring Conference of The Korean Society for Aeronautical and Space Sciences. Jeju Korea.
+
